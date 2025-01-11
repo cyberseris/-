@@ -1,3 +1,7 @@
+# 隱藏任務
+## 使用 canva 魔法媒體工具產圖， GPT 產生文字敘述 
+### https://ec-course-api.hexschool.io/v2/api/seris/products/all
+
 #### 1. 經典番茄肉醬義大利麵
 濃郁的番茄肉醬經過慢火熬煮，融合了多種香料與鮮嫩牛絞肉，搭配Q彈的義大利麵，經典滋味讓人每一口都充滿幸福感。
 
